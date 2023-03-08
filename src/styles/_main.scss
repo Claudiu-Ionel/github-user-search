@@ -4,7 +4,7 @@
 //mobile
 #main {
   width: 100%;
-  height: 100%;
+  height: 100vh;
   padding: 25px;
 }
 #header {
@@ -176,7 +176,7 @@
     .user-image-desktop {
       display: flex;
       width: 25%;
-      height: 35%;
+      height: 117px;
       border-radius: 50%;
 
       background-position: center;
